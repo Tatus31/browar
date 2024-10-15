@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Browar\\browar\\Browar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0874386A-0AA7-48AC-B574-C6B14BC7C7F7}|Browar.Server\\Browar.Server.csproj|c:\\browar\\browar\\browar\\browar.server\\browar.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0874386A-0AA7-48AC-B574-C6B14BC7C7F7}|Browar.Server\\Browar.Server.csproj|solutionrelative:browar.server\\browar.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0968A6E4-69C9-4701-8F24-E00EA37370C0}|browar.client\\browar.client.esproj|c:\\browar\\browar\\browar\\browar.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0968A6E4-69C9-4701-8F24-E00EA37370C0}|browar.client\\browar.client.esproj|solutionrelative:browar.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Browar.Server",
+              "DocumentMoniker": "C:\\Browar\\browar\\Browar\\Browar.Server\\Browar.Server.csproj",
+              "RelativeDocumentMoniker": "Browar.Server\\Browar.Server.csproj",
+              "ToolTip": "C:\\Browar\\browar\\Browar\\Browar.Server\\Browar.Server.csproj",
+              "RelativeToolTip": "Browar.Server\\Browar.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T09:00:11.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Browar\\browar\\Browar\\browar.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "browar.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Browar\\browar\\Browar\\browar.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "browar.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-15T08:35:41.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
